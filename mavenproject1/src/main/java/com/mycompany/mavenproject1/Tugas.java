@@ -11,5 +11,6 @@ package com.mycompany.mavenproject1;
 public class Tugas {
     public static void main(String[] args) {
         System.out.println("Tugas hari ini");
+        System.out.println("TUgas besok");
     }
 }
